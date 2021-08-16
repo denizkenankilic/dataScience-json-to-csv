@@ -1,7 +1,9 @@
 # dataScience-json-to-csv
 Transfer the Json Ground Truths to the Csv File
 
-In this repository, there is a Python script which transfers the Json ground truths (boinding box type) to the csv file. The json format and the output csv format are as following:
+In this repository, there is a Python script which transfers the Json ground truths (boinding box type) to the csv file. The gorund truth format and type is importatnt for some of machine learning algorithms and libraries. 
+
+The json format and the output csv format are as following:
 
     {
       "samples": [
